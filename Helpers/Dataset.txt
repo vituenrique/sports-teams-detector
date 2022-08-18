@@ -1,0 +1,27 @@
+Tromsø IL - Strømsgodset
+
+	1 - wget -r -np -nH --cut-dirs=3 -R index.html http://home.ifi.uio.no/paalh/dataset/alfheim/2013-11-03/First%20Half/0/
+
+	2 - wget -r -np -nH --cut-dirs=3 -R index.html http://home.ifi.uio.no/paalh/dataset/alfheim/2013-11-03/Second%20Half/0/
+
+	3 - wget -r -np -nH --cut-dirs=3 -R index.html http://home.ifi.uio.no/paalh/dataset/alfheim/2013-11-03/First%20Half/1/
+
+	4 - wget -r -np -nH --cut-dirs=3 -R index.html http://home.ifi.uio.no/paalh/dataset/alfheim/2013-11-03/Second%20Half/1/
+
+	5 - wget -r -np -nH --cut-dirs=3 -R index.html http://home.ifi.uio.no/paalh/dataset/alfheim/2013-11-03/First%20Half/2/
+
+	6 - wget -r -np -nH --cut-dirs=3 -R index.html http://home.ifi.uio.no/paalh/dataset/alfheim/2013-11-03/Second%20Half/2/
+
+Tromsø IL - Anzhi
+
+	1 - wget -r -np -nH --cut-dirs=3 -R index.html http://home.ifi.uio.no/paalh/dataset/alfheim/2013-11-07/First%20Half/0/
+
+	2 - wget -r -np -nH --cut-dirs=3 -R index.html http://home.ifi.uio.no/paalh/dataset/alfheim/2013-11-07/Second%20Half/0/
+
+	3 - wget -r -np -nH --cut-dirs=3 -R index.html http://home.ifi.uio.no/paalh/dataset/alfheim/2013-11-07/First%20Half/1/
+
+	4 - wget -r -np -nH --cut-dirs=3 -R index.html http://home.ifi.uio.no/paalh/dataset/alfheim/2013-11-07/Second%20Half/1/
+
+	5 - wget -r -np -nH --cut-dirs=3 -R index.html http://home.ifi.uio.no/paalh/dataset/alfheim/2013-11-07/First%20Half/2/
+
+	6 - wget -r -np -nH --cut-dirs=3 -R index.html http://home.ifi.uio.no/paalh/dataset/alfheim/2013-11-07/Second%20Half/2/

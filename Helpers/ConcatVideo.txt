@@ -1,0 +1,1 @@
+ffmpeg -f concat -safe 0 -i files.txt -vf scale=1080:-1 -vcodec mpeg4 -b:v 1000k output.mp4
